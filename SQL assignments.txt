@@ -1,0 +1,46 @@
+==================================================================
+1. Create Employee with coulmns (EmpId, Name, City, Salary)
+
+Create table Employee
+(
+EmpId INT Primary Key Identity(1,1),
+Name NVARCHAR(45) Not Null,
+City NVARCHAR(45) Not Null,
+Salary Decimal(12,2) Not Null
+);
+===============================================================
+2. Fill some etst data(100 rows, Id 1 to 100)
+
+INSERT INTO Employee VALUES(1,'Rohan','Pune',30,000);
+==============================================================
+3. Write a sql query to find employee with an id 45
+
+=>SELECT * FROM Employee 
+  where EmpId = 45;
+=====================================================================
+4. Write a sql query to find employees with an id that are even
+
+=>SELECT * FROM Employee  
+  where EmpId%2 == 0 ;
+=====================================================================
+5. Write a sql query to find highest salary holder
+
+=>SELECT Top 1 * FROM Employee 
+  Order By Desc 
+======================================================================
+6. Write a sql query to find highest salary holder in Pune City
+
+=> SELECT Top 1 * FROM Employee  
+   where City = "Pune"
+   Order By Desc;
+=======================================================================
+
+7. Write a sql query to find highest salary holder from each city
+
+=>Select Top 1 * from Employee
+  Group by City
+  Order By Salary DESC;
+
+====================================================================== 
+  
+
