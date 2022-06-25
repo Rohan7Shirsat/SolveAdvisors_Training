@@ -31,7 +31,7 @@ INSERT INTO Employee VALUES('Rohan','Pune',30000);
 ======================================================================
 6. Write a sql query to find highest salary holder in Pune City
 
-=>select *from Employee where salary=(select Max(salary) from employee where City = "Pune");
+=>select *from Employee where salary=(select Max(salary) from employee where City = "Pune") and City='Pune';
    
 =======================================================================
 
