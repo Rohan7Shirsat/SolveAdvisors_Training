@@ -69,8 +69,8 @@ namespace Extension
 			str.Reverse();
 			Console.WriteLine();
 			Console.WriteLine("String Reverse By Recurrsion :-" + str.RecursionForStringReverse());
-			Console.Write("After Changing First character : - ");
-			str.ChangeCaseOfFirstLetter();
+			Console.WriteLine("After Changing First character : - " +str.ChangeCaseOfFirstLetter());
+			
 			
 		}
 	}
