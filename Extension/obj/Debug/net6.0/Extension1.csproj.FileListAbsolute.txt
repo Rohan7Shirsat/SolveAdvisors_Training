@@ -1,0 +1,15 @@
+D:\.NET Assignments\Assignment1\Extension\bin\Debug\net6.0\Extension1.exe
+D:\.NET Assignments\Assignment1\Extension\bin\Debug\net6.0\Extension1.deps.json
+D:\.NET Assignments\Assignment1\Extension\bin\Debug\net6.0\Extension1.runtimeconfig.json
+D:\.NET Assignments\Assignment1\Extension\bin\Debug\net6.0\Extension1.dll
+D:\.NET Assignments\Assignment1\Extension\bin\Debug\net6.0\Extension1.pdb
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.csproj.AssemblyReference.cache
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.AssemblyInfoInputs.cache
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.AssemblyInfo.cs
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.csproj.CoreCompileInputs.cache
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.dll
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\refint\Extension1.dll
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.pdb
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\Extension1.genruntimeconfig.cache
+D:\.NET Assignments\Assignment1\Extension\obj\Debug\net6.0\ref\Extension1.dll
