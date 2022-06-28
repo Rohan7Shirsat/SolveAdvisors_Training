@@ -1,0 +1,21 @@
+﻿.class
+{
+    width:50%;
+    float:right;
+}
+h1 
+{
+    width: 100%;
+    text-align: center;
+    text-decoration:dotted;
+    background-color:aqua;
+    
+}
+table {
+    border:double;
+    padding:50px;
+    margin:150px;
+}
+body{
+    background-color:whitesmoke;
+}
