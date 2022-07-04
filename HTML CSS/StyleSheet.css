@@ -1,7 +1,13 @@
-﻿.class
+﻿.class1
 {
+    font-size:xx-large;
     width:50%;
     float:right;
+}
+.class2
+{
+    width:50%;
+    float:center;
 }
 h1 
 {
