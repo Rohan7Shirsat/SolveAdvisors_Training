@@ -1,6 +1,7 @@
 ﻿using Rest_Assignments.Entity;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Rest_Assignments.Service
 {
@@ -10,8 +11,8 @@ namespace Rest_Assignments.Service
             void AddEmployee(Employee employee);
             Employee GetEmployeeByID(int id);
             IEnumerable<Employee> GetAllEmployee();
-            Employee GetEmployeesByCity(string city);
-            Employee GetEmployeesWithoutID(string name, string city);
+            Employee GetHighestSalaryByCity(string city);
+            IEnumerable<Employee> GetEmployeesWithoutID(string name,string city);
 
         }
 
@@ -34,26 +35,29 @@ namespace Rest_Assignments.Service
         }
         public IEnumerable<Employee> GetAllEmployee()
         {
-            return _employee;
+           return _employee;
         }
 
        
 
         public Employee GetEmployeeByID(int id)
         {
-            throw new NotImplementedException();
+            var EmployeeByID = _employee.FirstOrDefault(e => e.EmployeeID == id);
+            return EmployeeByID;
         }
 
-        public Employee GetEmployeesByCity(string city)
+        public Employee GetHighestSalaryByCity(string city)
         {
-            throw new NotImplementedException();
+            var employeeHighSalaryByCity = _employee.Where(e => e.City == city).OrderByDescending(e => e.Salary).First();
+            return employeeHighSalaryByCity;
         }
 
-        public Employee GetEmployeesWithoutID(string name, string city)
+        IEnumerable<Employee> IEmployeeService.GetEmployeesWithoutID(string name, string city)
         {
-            throw new NotImplementedException();
+            var employeeWithoutId = _employee.Where(e => e.City == city).ToList();
+            return employeeWithoutId;
         }
-
+    
     }
 }
 

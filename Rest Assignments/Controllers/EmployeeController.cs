@@ -10,7 +10,7 @@ namespace Rest_Assignments.Controllers
     [ApiController]
     public class EmployeeCotroller : ControllerBase
     {
-       IEmployeeService _employeeService { get; set; }
+        IEmployeeService _employeeService { get; set; }
 
         public EmployeeCotroller(IEmployeeService employeeService)
         {
@@ -22,7 +22,29 @@ namespace Rest_Assignments.Controllers
         {
             return Ok(_employeeService.GetAllEmployee());
         }
-            
+
+        [HttpGet("GetEmployeeById/{id}")]
+        
+        public IActionResult GetEmployeeById(int id)
+        {
+            return Ok(_employeeService.GetEmployeeByID(id));
         }
+
+        [HttpGet("GetHighestSalaryByCity/{city}")]
+        
+        public IActionResult GetEmployeeById(string city)
+        {
+            return Ok(_employeeService.GetHighestSalaryByCity(city));
+        }
+
+
+        [HttpPost("AddEmployee")]
+        
+        public void AddEmployeeWithoutId(Employee employee)
+        {
+            _employeeService.AddEmployee(employee);
+        }
+
     }
+}
  

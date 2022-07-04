@@ -1,15 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Text from './Components/TextBox';
-import Register from './Components/Register';
+import { Register } from './Components/Register';
 
 function App() {
-  const newLocal = <Text />;
-  return (
+  return (<div>
     <div className="App">
       <Register/>
     </div>
-  );
+    </div>);
 }
 
 export default App;

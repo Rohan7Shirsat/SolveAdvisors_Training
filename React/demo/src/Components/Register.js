@@ -1,16 +1,11 @@
-
 import React from "react";
 
-const Register=()=>{
-    handleOnClick=(e)=>{
+export function Register(){
+    return(<div>
+        <h1>Hello</h1>
+    </div>
 
-    };
+    );
+}
+   
 
-    return(
-    <div>
-<form>
-    <label>Fname:</label>
-</form>
-    </div>)}
-
-export default Register;
