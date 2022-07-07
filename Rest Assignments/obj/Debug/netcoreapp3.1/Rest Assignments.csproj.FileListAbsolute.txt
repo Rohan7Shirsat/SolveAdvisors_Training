@@ -17,3 +17,22 @@ D:\Users\rshirsat\Desktop\Rest api kanad sir\Rest Assignments\obj\Debug\netcorea
 D:\Users\rshirsat\Desktop\Rest api kanad sir\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.dll
 D:\Users\rshirsat\Desktop\Rest api kanad sir\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.pdb
 D:\Users\rshirsat\Desktop\Rest api kanad sir\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.genruntimeconfig.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.exe
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.deps.json
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.runtimeconfig.json
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.runtimeconfig.dev.json
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.dll
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\bin\Debug\netcoreapp3.1\Rest Assignments.pdb
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.csproj.AssemblyReference.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.AssemblyInfoInputs.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.AssemblyInfo.cs
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.csproj.CoreCompileInputs.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\staticwebassets\Rest Assignments.StaticWebAssets.Manifest.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.RazorTargetAssemblyInfo.cache
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.dll
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.pdb
+D:\Users\rshirsat\Desktop\New folder (2)\SolveAdvisors_Training\Rest Assignments\obj\Debug\netcoreapp3.1\Rest Assignments.genruntimeconfig.cache

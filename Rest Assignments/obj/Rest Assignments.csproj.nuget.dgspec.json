@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\rshirsat\\Desktop\\Rest api kanad sir\\Rest Assignments\\Rest Assignments.csproj": {}
+    "D:\\Users\\rshirsat\\Desktop\\New folder (2)\\SolveAdvisors_Training\\Rest Assignments\\Rest Assignments.csproj": {}
   },
   "projects": {
-    "D:\\Users\\rshirsat\\Desktop\\Rest api kanad sir\\Rest Assignments\\Rest Assignments.csproj": {
+    "D:\\Users\\rshirsat\\Desktop\\New folder (2)\\SolveAdvisors_Training\\Rest Assignments\\Rest Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\rshirsat\\Desktop\\Rest api kanad sir\\Rest Assignments\\Rest Assignments.csproj",
+        "projectUniqueName": "D:\\Users\\rshirsat\\Desktop\\New folder (2)\\SolveAdvisors_Training\\Rest Assignments\\Rest Assignments.csproj",
         "projectName": "Rest Assignments",
-        "projectPath": "D:\\Users\\rshirsat\\Desktop\\Rest api kanad sir\\Rest Assignments\\Rest Assignments.csproj",
+        "projectPath": "D:\\Users\\rshirsat\\Desktop\\New folder (2)\\SolveAdvisors_Training\\Rest Assignments\\Rest Assignments.csproj",
         "packagesPath": "D:\\Users\\rshirsat\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\rshirsat\\Desktop\\Rest api kanad sir\\Rest Assignments\\obj\\",
+        "outputPath": "D:\\Users\\rshirsat\\Desktop\\New folder (2)\\SolveAdvisors_Training\\Rest Assignments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\rshirsat\\AppData\\Roaming\\NuGet\\NuGet.Config",

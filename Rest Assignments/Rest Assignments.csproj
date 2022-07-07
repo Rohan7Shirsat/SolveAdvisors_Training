@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Rest_Assignments</RootNamespace>
+    <UserSecretsId>76dcfb22-802a-4094-b39f-bd979fa48ca5</UserSecretsId>
+    <StartupObject>Rest_Assignments.Program</StartupObject>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
 
 

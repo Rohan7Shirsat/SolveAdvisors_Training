@@ -16,12 +16,15 @@ namespace SingltonWithLock
 
         public static Chess getInstance
         {
+           
             get
-            {  
-                if (Instance == null)
-                    Instance = new Chess();
-                return Instance;
-                
+            {
+                lock (Instance)
+                {
+                    if (Instance == null)
+                        Instance = new Chess();
+                    return Instance;
+                }
             }
         }
 
@@ -40,7 +43,7 @@ namespace SingltonWithLock
         public static void Main(String[] args)
         {
             Chess Player1 = Chess.getInstance;
-            Player1.Play();
+            Player1.Play<>();
 
             Chess Player2 = Chess.getInstance;
             Player2.Play();
